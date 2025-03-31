@@ -1,7 +1,7 @@
 # Stock-market-analysis-and-machine-learning
 This repository contains a Python script for analyzing stock market data, detecting volume spikes, computing sector-wise averages, and implementing a basic machine learning model to predict PE ratios.
 
-##Features
+## Features
 
 Stock Volume Analysis: Computes average daily volume per ticker.
 
